@@ -1,0 +1,2 @@
+# Machine-Learning-Project
+The problem studied is the increasing occurrences of forest fires. It created a lot of damage for the economy and environment. The expected result is to reduce this phenomenon, by gathering enough meteorological data to predict the area in which the forest fires may occur.This problem is a regression task and the kind of data that were mined are time-series data (historical records), spatial data (maps), and data streams (sensor data).
